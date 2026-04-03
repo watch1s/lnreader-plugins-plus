@@ -162,6 +162,15 @@
     }
   },
   {
+    "id": "novelokutr",
+    "sourceSite": "https://novelokutr.net/",
+    "sourceName": "Novelokutr",
+    "options": {
+      "useNewChapterEndpoint": true,
+      "lang": "Turkish"
+    }
+  },
+  {
     "id": "sonicmtl",
     "sourceSite": "https://www.sonicmtl.com/",
     "sourceName": "SonicMTL",
